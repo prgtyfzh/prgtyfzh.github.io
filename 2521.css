@@ -1,0 +1,13 @@
+body{
+    background-image: url('cloud.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    color: white;
+}
+
+hr{
+    color: black;
+}
